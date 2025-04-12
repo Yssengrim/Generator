@@ -28,7 +28,7 @@ def split_nodes_delimiter(old_nodes, delimiter, text_type):
             elif i % 2 == 1 and i == len(split_text) - 1:
                 raise ValueError(f"Unclosed delimiter: {delimiter}")
             
-        return new_nodes
+    return new_nodes
             
 
 
