@@ -1,1 +1,1 @@
-python3 src/main.py "/Yssengrim/Generator/"
+python3 src/main.py "/Generator/"
